@@ -4,7 +4,7 @@ Version: 0.9_20090720
 Release: %mkrel 1
 Group: System/Libraries
 License: LGPLv2+
-URL: http://www.clutter-project.org/
+URL: https://www.clutter-project.org/
 Source0: http://www.clutter-project.org/sources/%{name}/0.9/%{name}-%{version}.tar.bz2
 Patch0: clutter-1.0-dependency.patch
 Patch1: clutter-qt-0.9_20090720-glib-signals.patch
